@@ -109,8 +109,7 @@ streamlit run property_price_prediction.py
 ## 📁 Project Structure
 
 ```bash
-Property-Price-Prediction-Model/
-│
+
 ├── property_price_prediction_dataset.csv.xlsx
 ├── Property_Price_Prediction.ipynb
 ├── property_price_model.pkl
